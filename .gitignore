@@ -1,0 +1,7 @@
+# CMake build output
+/build/
+
+# Editor/OS files
+*.swp
+*.swo
+.DS_Store
