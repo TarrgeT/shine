@@ -1,7 +1,11 @@
 # CMake build output
 /build/
 
+#
+.gitignore
+
 # Editor/OS files
 *.swp
 *.swo
 .DS_Store
+
